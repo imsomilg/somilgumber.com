@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.git/
+.env*
+*.md
+Dockerfile
+.dockerignore
+scripts/
+*.tsbuildinfo
+.DS_Store
